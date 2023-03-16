@@ -1,0 +1,15 @@
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\bin\Release\net6.0\MinesweeperConsoleDotNet.exe
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\bin\Release\net6.0\MinesweeperConsoleDotNet.deps.json
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\bin\Release\net6.0\MinesweeperConsoleDotNet.runtimeconfig.json
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\bin\Release\net6.0\MinesweeperConsoleDotNet.dll
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\bin\Release\net6.0\MinesweeperConsoleDotNet.pdb
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\MinesweeperConsoleDotNet.csproj.AssemblyReference.cache
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\MinesweeperConsoleDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\MinesweeperConsoleDotNet.AssemblyInfoInputs.cache
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\MinesweeperConsoleDotNet.AssemblyInfo.cs
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\MinesweeperConsoleDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\MinesweeperConsoleDotNet.dll
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\refint\MinesweeperConsoleDotNet.dll
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\MinesweeperConsoleDotNet.pdb
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\MinesweeperConsoleDotNet.genruntimeconfig.cache
+C:\Users\Chase\Desktop\C#\MinesweeperConsoleDotNet\obj\Release\net6.0\ref\MinesweeperConsoleDotNet.dll
